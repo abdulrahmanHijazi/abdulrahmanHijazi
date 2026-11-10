@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="assets/profile.png" width="200" alt="Abdulrahman Hijazi" style="border-radius:50%; border:4px solid #2563eb; box-shadow: 0 0 20px rgba(37,99,235,0.5);"/>
 
 ### 👋 Hi there, I'm Abdulrahman
 
