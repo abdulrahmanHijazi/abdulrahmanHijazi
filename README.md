@@ -56,14 +56,81 @@ fun_fact: I turn coffee into CRMs, POS systems and marketplaces ☕
 
 ### 🚀 Production Platforms
 
+<details open>
+<summary><b>🎓 Education & E-Learning</b></summary>
+
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 **Shamel Edu** | E-learning platform (18 modules): orders, payments, wallet, attendance, live lessons, real-time chat | Laravel 13, Filament, Inertia, Vue 3, Redis/Horizon, Reverb, FCM, Stripe, Vimeo |
-| 🩺 **Altabeb (الطبيب)** | Booking system for doctors, hospitals, pharmacies & labs with online appointments/consultations | Laravel, Filament/Nova, Sanctum, MySQL |
+| 🎓 **Shamel Edu** | E-learning platform (18 modules): courses, quizzes, orders, payments, wallet, attendance, live lessons, podcasts, forum, real-time chat | Laravel, Modular (nwidart), Nova, Inertia, Redis/Horizon, Firebase FCM, Stripe, Vimeo |
+| 📚 **Elearning Platform** | Modular online-course backend: courses, categories, coupons, orders, wallet, podcasts, forum, shipments | Laravel, Nova, Modules, Inertia |
+| 🧭 **Al-Masar Platform** | Educational marketplace mixing courses & products: cart, cashback coupons, orders, wallet, SEO | Laravel, Nova, Modules, Inertia |
+| 🏫 **Al-Thanwia (الثانوية)** | Secondary-education subscriptions: country/landing subscriptions, registration forms, certificates, newsletters — admin + frontend apps | Laravel + Vue |
+| 📝 **Nexen Study** | School management: academic years & levels, classes, subjects, exams, tasks and schedules | Laravel |
+| 💰 **Education Accounting System** | University administration: students, invoices, expenses, payments, scholarships, universities & specializations | Laravel |
+| ✅ **Maximize** | Training attendance tracking: sessions, schedules, role-based permissions | Laravel |
+
+</details>
+
+<details open>
+<summary><b>🏥 Healthcare</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🩺 **Altabeb (الطبيب)** | Booking system for doctors, hospitals, pharmacies & labs with online appointments/consultations | Laravel, Filament/Nova, Sanctum |
+| 💊 **Dawaei (الدوائي)** | Pharmacy platform with e-prescriptions: prescription templates, product variants & attributes, brands, favorites | Laravel, Filament |
+| 🏥 **E-Pharmacy** | Online-pharmacy ordering backend: products, cart, orders, coupons, cashback, delivery shipments | Laravel, Nova, Modules, Inertia |
+
+</details>
+
+<details open>
+<summary><b>🛒 Marketplaces & Commerce</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚗 **Shater (شاطر)** | Auto-parts marketplace (v1 + v2): listings by brand/model, buyer–seller chat, reviews, custom fields, SEO pages | Laravel, Filament, Sanctum, FCM |
+| 🔌 **DealOHub** | Car-parts marketplace API with in-app chat, followers, push notifications & working hours | Laravel, Filament API, Sanctum, FCM |
+| 📋 **Ads Listing** | General classified-ads portal: listings, custom fields & features, reviews, favorites, email subscriptions | Laravel |
+| 👑 **RoomCM** | Social-commerce platform: products, celebrity coupons & commissions, mood boards, custom fields, orders | Laravel, Nova, Modules, Inertia |
+| 🏷️ **Luxsaray Offers** | Product offers engine: bundles & discounts linking products to offers with admin notes | Laravel |
+| 🥇 **Sankari Gold** | Gold trading system: client wallets, currency pricing with increase settings, client categories | Laravel, Filament |
+
+</details>
+
+<details open>
+<summary><b>🚕 Mobility, Transport & Delivery</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| ✈️ **Booking-24** | Car-rental & airport-transfer API: dynamic pricing, drivers, trips, tours, property reservations | Laravel, Filament, Sanctum, FCM |
+| 🚖 **Electro Taxi** | Taxi dispatch system: live driver GPS tracking, shifts, trips, SOS alerts, route change logs | Laravel, Filament |
+| ⚡ **77 Auto** | EV-charging network: charging stations, charge requests, customer & agent cars, vehicle brands, ads | Laravel |
 | 🛵 **Yumzy** | Food & grocery delivery backend: warehouses, delivery zones, coupons, loyalty points, order tracking | Laravel, Filament, Sanctum, Redis Queue |
-| 🚗 **Shater (شاطر)** | Auto-parts marketplace with buyer–seller chat, reviews and SEO-optimized pages | Laravel, Filament, Sanctum, FCM |
-| ✈️ **Booking-24** | Car-rental & airport-transfer API with dynamic pricing and a driver/trip admin panel | Laravel, Filament, Sanctum, FCM |
+
+</details>
+
+<details open>
+<summary><b>🏢 Corporate & Content Websites</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌐 **Al-Khawarizmi Org** | Organization website CMS: blog, careers, projects, partners, teams, branches, services, newsletter | Laravel |
+| 🏢 **MJ Group** | Corporate site CMS: product sections, projects, partners, teams, blog, SEO pages | Laravel |
+| 🏆 **HFS — Huraymila Award** | Foundation website with competitions, events, quizzes, award nominations & careers | Laravel |
+
+</details>
+
+<details open>
+<summary><b>📋 Business & Service Platforms</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 **On Point** | Local-services marketplace: experts, booking lifecycle, offers, payouts, tickets, coupons | Laravel, Filament |
+| 🎯 **Pixel** | Agency management: clients & campaigns, projects, posts, rates, licenses, job titles, work cycles | Laravel |
+| 🏠 **Real Estate System** | Real-estate platform with exchange forms & Property Finder integration | Laravel |
+| ⚜️ **Scouts Syria** | Scouting-association management: groups, leaders, badges, medals, activities, headquarters | Laravel |
 | 🏠 **Aqar & Service** | Graduation project — led the team, UML analysis/design, backend development | Laravel, WebSockets, Queues, Agora, Design Patterns |
+
+</details>
 
 <br>
 
